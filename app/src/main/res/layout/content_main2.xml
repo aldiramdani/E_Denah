@@ -195,6 +195,7 @@
             app:layout_constraintVertical_bias="0.215" />
 
         <TextView
+            android:id="@+id/txt_i"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="8dp"
@@ -478,10 +479,10 @@
             android:src="@drawable/ic_location_on_black_24dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.552"
+            app:layout_constraintHorizontal_bias="0.562"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="@+id/gambar_rute"
-            app:layout_constraintVertical_bias="0.92" />
+            app:layout_constraintVertical_bias="0.792" />
 
     </android.support.constraint.ConstraintLayout>
 
